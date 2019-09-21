@@ -28,7 +28,7 @@ Get [Ukelele](https://scripts.sil.org/ukelele): `brew cask install ukelele`. The
 - Moves <code>&#96;</code> (backtick) to the top left corner. The overwritten `§` symbol can be written with Alt.
 - Moves `\` and `|` to the key next to the left Shift (where backtick originally was).
     - `\` and `|` are still at their original location next to Enter.
-    - **UPDATE Sep 2019**: This is problematic as e.g. [VSCode doesn't see `Cmd-\`](https://github.com/microsoft/vscode/issues/80697). See [Ukelele support thread](https://groups.google.com/forum/#!topic/ukelele-users/28lJPjzbpTQ).
+    - ❗️ `Cmd-\` shortcut doesn't work in [in VSCode](https://github.com/microsoft/vscode/issues/80697) or in Google Sheets, see this [Ukelele support thread](https://groups.google.com/forum/#!topic/ukelele-users/28lJPjzbpTQ) and [its conclusion](https://groups.google.com/d/msg/ukelele-users/28lJPjzbpTQ/w9sS_UolAgAJ). It only works with the original key (next to Enter).
 
 | | U.S. | English BB |
 | -- | -- | -- |
@@ -36,15 +36,7 @@ Get [Ukelele](https://scripts.sil.org/ukelele): `brew cask install ukelele`. The
 | ⌥ | <img alt="U.S. Alt" src="https://user-images.githubusercontent.com/101152/65379218-e7131900-dcc4-11e9-9364-5ee67909229a.png">  | <img alt="English BB Alt" src="https://user-images.githubusercontent.com/101152/65379183-55a3a700-dcc4-11e9-971a-a14f03f66243.png"> |
 | ⇧ | <img alt="U.S. Shift" src="https://user-images.githubusercontent.com/101152/65379217-e7131900-dcc4-11e9-9317-a818ba30d949.png"> | <img alt="English BB Shift" src="https://user-images.githubusercontent.com/101152/65379182-55a3a700-dcc4-11e9-87ec-30c6737e01cd.png"> |
 
-## 'English BB 2' based on 'British – PC'
-
-I'm trying to fix the `Cmd+\` issue by basing my layout on British – PC rather than U.S. as the British layout has already the `\` key in the "right" place.
-
-Details:
-
-- Changes a couple of "Shift" keys to be the same as in the U.S. layout:
-    - Swaps `@` and `"`
-    - Restores `#` to `Shift+3`
+> **Note**: this layout could also be built from 'British – PC', and you can find an attempt called 'English BB 2' in the repo history. The only change that needed to be done is to fix some Shift combinations: swap `@` and `"` and restore `#` to `Shift+3`.
 
 ## 'Czech BB' customizations
 
@@ -116,9 +108,11 @@ Added "Czech - BB" layout.
     - Accent for `ť` is at its original Czech location, i.e., Shift+<key next to backspace>, but it also works with `Alt`.
 - Also move `Alt--` (n-dash) so that it's on the same key. This rewrites `°` dead key for which I didn't bother to find a new location yet (`ů` is still on its normal location).
 
-### 16 Sep 2019
+### 22 Sep 2019
 
-Started looking for a solution to the issue with `Cmd-\` – it doesn't work for me in VSCode and Chrome when the backslash is the remapped one (the one next to left shift; it works with the original one). See [Ukelele support thread](https://groups.google.com/forum/#!topic/ukelele-users/28lJPjzbpTQ).
+- Create a Git repo, deprecate the original Google Drive folder.
+- Try to make the `Cmd-\` keyboard shortcut work.
+    - It's not possible, a note with explanation has been added [above](#english-bb-customizations).
 
 ## Other topics
 
