@@ -140,3 +140,11 @@ Now, for example, to move an acute to `Alt+<key next to backspace>`, it's import
 1. Press the modified (Alt) and double click the key
 2. On the Change State tab, enter 1.
 3. Click OK. The key should automatically update to acute (remember that the dead key definition already exists, we're only assigning it to a specific key and a modifier) and when you open the dialog again, it should say _Currently, it goes to state "1", which has terminator "'"_.
+
+### U.S. vs British - PC
+
+| | U.S. | British - PC |
+| -- | -- | -- |
+| | <img alt="U.S. basic" src="https://user-images.githubusercontent.com/101152/65379219-e7abaf80-dcc4-11e9-9d70-25d8fbc198b0.png"> | <img alt="British - PC basic" src="https://user-images.githubusercontent.com/101152/65379668-f3e73b00-dccb-11e9-99c3-e7cb87019c6c.png"> |
+| ⌥ | <img alt="U.S. Alt" src="https://user-images.githubusercontent.com/101152/65379218-e7131900-dcc4-11e9-9364-5ee67909229a.png">  | <img alt="British - PC Alt" src="https://user-images.githubusercontent.com/101152/65379667-f3e73b00-dccb-11e9-83ae-afede6a0edde.png"> |
+| ⇧ | <img alt="U.S. Shift" src="https://user-images.githubusercontent.com/101152/65379217-e7131900-dcc4-11e9-9317-a818ba30d949.png"> | <img alt="British - PC Shift" src="https://user-images.githubusercontent.com/101152/65379666-f3e73b00-dccb-11e9-81be-f957f167f116.png"> |
