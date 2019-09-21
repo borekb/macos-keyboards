@@ -5,13 +5,15 @@
 	<key>CFBundleIdentifier</key>
 	<string>org.sil.ukelele.keyboardlayout.englishusbackticktopleft</string>
 	<key>CFBundleName</key>
-	<string>English US backtick topleft</string>
+	<string>English BB</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_U.S. - PC</key>
+	<key>KLInfo_English BB</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.englishusbackticktopleft.u.s.-pc</string>
+		<string>org.sil.ukelele.keyboardlayout.englishusbackticktopleft.englishbb</string>
 		<key>TISIntendedLanguage</key>
 		<string>en</string>
 	</dict>

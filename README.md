@@ -113,6 +113,8 @@ Added "Czech - BB" layout.
 - Create a Git repo, deprecate the original Google Drive folder.
 - Try to make the `Cmd-\` keyboard shortcut work.
     - It's not possible, a note with explanation has been added [above](#english-bb-customizations).
+- Cleanup and rename the keyboards to 'Czech BB' and 'English BB'.
+- Heavily update README.
 
 ## Other topics
 

@@ -8,10 +8,12 @@
 	<string>Czech BB</string>
 	<key>CFBundleVersion</key>
 	<string></string>
-	<key>KLInfo_Czech - BB</key>
+	<key>KLInfo_Czech BB</key>
 	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.czechbb.czech-bb</string>
+		<string>org.sil.ukelele.keyboardlayout.czechbb.czechbb</string>
 		<key>TISIntendedLanguage</key>
 		<string>cs</string>
 	</dict>
