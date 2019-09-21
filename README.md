@@ -36,6 +36,16 @@ Get [Ukelele](https://scripts.sil.org/ukelele): `brew cask install ukelele`. The
 | ⌥ | <img alt="U.S. Alt" src="https://user-images.githubusercontent.com/101152/65379218-e7131900-dcc4-11e9-9364-5ee67909229a.png">  | <img alt="English BB Alt" src="https://user-images.githubusercontent.com/101152/65379183-55a3a700-dcc4-11e9-971a-a14f03f66243.png"> |
 | ⇧ | <img alt="U.S. Shift" src="https://user-images.githubusercontent.com/101152/65379217-e7131900-dcc4-11e9-9317-a818ba30d949.png"> | <img alt="English BB Shift" src="https://user-images.githubusercontent.com/101152/65379182-55a3a700-dcc4-11e9-87ec-30c6737e01cd.png"> |
 
+## 'English BB 2' based on 'British – PC'
+
+I'm trying to fix the `Cmd+\` issue by basing my layout on British – PC rather than U.S. as the British layout has already the `\` key in the "right" place.
+
+Details:
+
+- Changes a couple of "Shift" keys to be the same as in the U.S. layout:
+    - Swaps `@` and `"`
+    - Restores `#` to `Shift+3`
+
 ## 'Czech BB' customizations
 
 The general idea is to bring it closer to English U.S., incl. the two keys left to the backspace that are often used for zooming etc. This creates a "problem" for Czech accents, e.g., `mód` is now written as `m Alt-<key next to backspace> o d`.
