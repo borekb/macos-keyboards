@@ -32,9 +32,9 @@ Get [Ukelele](https://scripts.sil.org/ukelele): `brew cask install ukelele`. The
 
 | | U.S. | English BB |
 | -- | -- | -- |
-| | <img width="299" alt="U.S. basic" src="https://user-images.githubusercontent.com/101152/65379219-e7abaf80-dcc4-11e9-9d70-25d8fbc198b0.png"> | <img width="299" alt="English BB basic" src="https://user-images.githubusercontent.com/101152/65379184-563c3d80-dcc4-11e9-81f9-386aae2774ce.png"> |
-| ⌥ | <img width="299" alt="U.S. Alt" src="https://user-images.githubusercontent.com/101152/65379218-e7131900-dcc4-11e9-9364-5ee67909229a.png">  | <img width="299" alt="English BB Alt" src="https://user-images.githubusercontent.com/101152/65379183-55a3a700-dcc4-11e9-971a-a14f03f66243.png"> |
-| ⇧ | <img width="299" alt="U.S. Shift" src="https://user-images.githubusercontent.com/101152/65379217-e7131900-dcc4-11e9-9317-a818ba30d949.png"> | <img width="299" alt="English BB Shift" src="https://user-images.githubusercontent.com/101152/65379182-55a3a700-dcc4-11e9-87ec-30c6737e01cd.png"> |
+| | <img alt="U.S. basic" src="https://user-images.githubusercontent.com/101152/65379219-e7abaf80-dcc4-11e9-9d70-25d8fbc198b0.png"> | <img alt="English BB basic" src="https://user-images.githubusercontent.com/101152/65379184-563c3d80-dcc4-11e9-81f9-386aae2774ce.png"> |
+| ⌥ | <img alt="U.S. Alt" src="https://user-images.githubusercontent.com/101152/65379218-e7131900-dcc4-11e9-9364-5ee67909229a.png">  | <img alt="English BB Alt" src="https://user-images.githubusercontent.com/101152/65379183-55a3a700-dcc4-11e9-971a-a14f03f66243.png"> |
+| ⇧ | <img alt="U.S. Shift" src="https://user-images.githubusercontent.com/101152/65379217-e7131900-dcc4-11e9-9317-a818ba30d949.png"> | <img alt="English BB Shift" src="https://user-images.githubusercontent.com/101152/65379182-55a3a700-dcc4-11e9-87ec-30c6737e01cd.png"> |
 
 ## 'Czech BB' customizations
 
@@ -51,9 +51,9 @@ Details:
 
 | | Czech QWERTY | Czech BB |
 | -- | -- | -- |
-|  | <img width="299" alt="Czech QWERTY basic" src="https://user-images.githubusercontent.com/101152/65379038-02c8f000-dcc2-11e9-8e2c-585e5399f14e.png"> | <img width="299" alt="Czech BB basic" src="https://user-images.githubusercontent.com/101152/65379129-761f3180-dcc3-11e9-93f3-8ab658da79a1.png">
-| ⌥ | <img width="299" alt="Czech QWERTY Alt" src="https://user-images.githubusercontent.com/101152/65379040-03618680-dcc2-11e9-8a14-68393f5b6a26.png"> | <img width="299" alt="Czech BB Alt" src="https://user-images.githubusercontent.com/101152/65379102-23457a00-dcc3-11e9-853c-52e95893b47b.png"> |
-| ⇧ | <img width="299" alt="Czech QWERTY Shift" src="https://user-images.githubusercontent.com/101152/65379039-02c8f000-dcc2-11e9-80ce-6d38026bbe4f.png"> | <img width="299" alt="Czech BB Shift" src="https://user-images.githubusercontent.com/101152/65379101-23457a00-dcc3-11e9-981f-76a7259eddf5.png"> |
+|  | <img alt="Czech QWERTY basic" src="https://user-images.githubusercontent.com/101152/65379038-02c8f000-dcc2-11e9-8e2c-585e5399f14e.png"> | <img alt="Czech BB basic" src="https://user-images.githubusercontent.com/101152/65379129-761f3180-dcc3-11e9-93f3-8ab658da79a1.png">
+| ⌥ | <img alt="Czech QWERTY Alt" src="https://user-images.githubusercontent.com/101152/65379040-03618680-dcc2-11e9-8a14-68393f5b6a26.png"> | <img alt="Czech BB Alt" src="https://user-images.githubusercontent.com/101152/65379102-23457a00-dcc3-11e9-853c-52e95893b47b.png"> |
+| ⇧ | <img alt="Czech QWERTY Shift" src="https://user-images.githubusercontent.com/101152/65379039-02c8f000-dcc2-11e9-80ce-6d38026bbe4f.png"> | <img alt="Czech BB Shift" src="https://user-images.githubusercontent.com/101152/65379101-23457a00-dcc3-11e9-981f-76a7259eddf5.png"> |
 
 ### Chrome zooming with the Czech keyboard
 
