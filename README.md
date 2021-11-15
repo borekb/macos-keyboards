@@ -1,16 +1,17 @@
 # My macOS keyboard layouts
 
-Customized keyboard layouts created with [Ukelele](https://scripts.sil.org/ukelele).
+This repo contains two keyboard layouts, "Czech BB" and "English BB", created with [Ukelele](https://scripts.sil.org/ukelele).
 
 ## How to install
 
-1. Copy the keyboard layout:
+1. Copy the keyboard layouts to `/Library/Keyboard Layouts` (not `~/Library/Keyboard Layouts` since that would not allow them on the login screen and in password dialogs):
+
     ```
-    sudo cp -r Xyz.bundle /Library/Keyboard\ Layouts
+    sudo cp -r Czech\ BB.bundle /Library/Keyboard\ Layouts
+    sudo cp -r English\ BB.bundle  /Library/Keyboard\ Layouts
     ```
-    (Don't use the built-int organizer in Ukelele as it [removes the bundle from the original location](https://groups.google.com/forum/#!topic/ukelele-users/90YkwlJoCIg).)
-2. Log out & back in, or remove the keyboard layout from Input Sources and add it back in.
-3. Select keyboard in Input Sources.
+
+2. Add as Input Sources.
 
 ## How to make customizations
 
