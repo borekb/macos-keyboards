@@ -1,27 +1,17 @@
 # My macOS keyboard layouts
 
-Customized keyboard layouts created with [Ukelele](https://scripts.sil.org/ukelele).
+This repo contains two keyboard layouts, "Czech BB" and "English BB", created with [Ukelele](https://scripts.sil.org/ukelele).
 
 ## How to install
 
-1. Copy the keyboard layout:
+1. Copy the keyboard layouts to `/Library/Keyboard Layouts` (not `~/Library/Keyboard Layouts` since that would not allow them on the login screen and in password dialogs):
+
     ```
-    sudo cp -r Xyz.bundle /Library/Keyboard\ Layouts
+    sudo cp -r Czech\ BB.bundle /Library/Keyboard\ Layouts
+    sudo cp -r English\ BB.bundle  /Library/Keyboard\ Layouts
     ```
-    (Don't use the built-int organizer in Ukelele as it [removes the bundle from the original location](https://groups.google.com/forum/#!topic/ukelele-users/90YkwlJoCIg).)
-2. Log out & back in, or remove the keyboard layout from Input Sources and add it back in.
-3. Select keyboard in Input Sources.
 
-## How to make customizations
-
-Get [Ukelele](https://scripts.sil.org/ukelele): `brew cask install ukelele`. Then:
-
-1. Open an existing bundle or create a new one via **File** > **New From Current Input Source**.
-2. Double-click the keyboard layout.
-3. On the virtual keyboard, double-click a key you want to remap and enter a character.
-4. Give it a name via **Set Keyboard Name and Script...** (this is a different thing than a filename!)
-5. [Install](#how-to-install) the keyboard and test it.
-6. Update this README – screenshots and [changelog](#changelog).
+2. Add as Input Sources.
 
 ## 'English BB' customizations
 
@@ -84,6 +74,17 @@ vs.
 <img width="387" alt="screenshot 2019-02-27 at 11 53 50" src="https://user-images.githubusercontent.com/101152/53485380-5d7ccf00-3a86-11e9-924f-6ec72bf01971.png">
 
 The goal is to modify Czech BB so that when Cmd is pressed, it looks exactly like U.S. It could solve a couple of issues with Chrome zoom, GDocs shortcuts and similar.
+
+## How to make customizations
+
+Get [Ukelele](https://scripts.sil.org/ukelele): `brew cask install ukelele`. Then:
+
+1. Open an existing bundle or create a new one via **File** > **New From Current Input Source**.
+2. Double-click the keyboard layout.
+3. On the virtual keyboard, double-click a key you want to remap and enter a character.
+4. Give it a name via **Set Keyboard Name and Script...** (this is a different thing than a filename!)
+5. [Install](#how-to-install) the keyboard and test it.
+6. Update this README – screenshots and [changelog](#changelog).
 
 ## Changelog
 
